@@ -19,10 +19,10 @@ I'm proud to present to you one of my favorite puzzle games, Sudoku, made entire
 
 ### Screenshots ###
 
-https://i.imgur.com/fkAx6wJ.png
+![main menu with difficulty select](https://i.imgur.com/fkAx6wJ.png)
 
-https://i.imgur.com/PEEeohv.png
+![the game board with three mistakes already made](https://i.imgur.com/PEEeohv.png)
 
-https://i.imgur.com/FpPoNuF.png
+![the win screen with options to exit or try again](https://i.imgur.com/FpPoNuF.png)
 
-https://i.imgur.com/qZnRQQD.png
+![the game over screen with options to exit or try again](https://i.imgur.com/qZnRQQD.png)
